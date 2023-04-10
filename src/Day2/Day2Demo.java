@@ -5,7 +5,8 @@ public class Day2Demo {
 		
 	    System.out.println("Pushing Code...");
 	}
-	
-
+	public void newTest() {
+	 System.out.println("testing agin ");
 }
 
+}
